@@ -1,0 +1,34 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "C#",
+      "imageSrc": "skills/cSharp.png"
+    },
+    {
+      "title": ".NET Core",
+      "imageSrc": "skills/netCore.png"
+    },
+    {
+      "title": "MSSQL",
+      "imageSrc": "skills/msSql.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    }
+  ]

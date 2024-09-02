@@ -1,0 +1,40 @@
+[
+    {
+      "role": "Web Developer(Full stack Developer)",
+      "organisation": "Osler, Hoskin & Harcourt",
+      "startDate": "April, 2022",
+      "endDate": "Present",
+      "experiences": ["Optimize application using client-side and server-side techniqies", "Rearchitected the existing application"],
+      "imageSrc": "history/osler.png"
+    },
+    {
+      "role": "Engineering Assistant",
+      "organisation": "Leland Industries",
+      "startDate": "April, 2021",
+      "endDate": "Oct, 2021",
+      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "imageSrc": "history/leland.png"
+    },
+    {
+      "role": "Engineer",
+      "organisation": "Bharat Earth Movers Limited",
+      "startDate": "Sept, 2017",
+      "endDate": "Dec, 2018",
+      "experiences": [
+        "Worked on component library",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/beml.png"
+    },
+    {
+      "role": "Junior Engineer",
+      "organisation": "Jindal Steel Works",
+      "startDate": "Aug, 2014",
+      "endDate": "June, 2016",
+      "experiences": [
+        "Worked on component library",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/jsw.png"
+    }
+  ]

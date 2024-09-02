@@ -1,0 +1,26 @@
+[
+    {
+      "title": "StayFit",
+      "imageSrc": "projects/StayFit.gif",
+      "description": "Single Page Application.",
+      "skills": ["React Native", "Express", "Node", "Routers"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/sonia0409/StayFit"
+    },
+    {
+      "title": "Interview Scheduler",
+      "imageSrc": "projects/interviewScheduler.png",
+      "description": "This project is built to learn integrated testing technologies",
+      "skills": ["Cypress", "Storybook", "Jest", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/sonia0409/Interview-Scheduler"
+    },
+    {
+      "title": "Smart-To-Do-List",
+      "imageSrc": "projects/smartToDoList.png",
+      "description": "A smart, auto-categorizing todo list app, APIs are extensively used.",
+      "skills": ["RESTFul API", "Axios", "PostgreSQL."],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/sonia0409/Smart-To-Do-List"
+    }
+  ]
