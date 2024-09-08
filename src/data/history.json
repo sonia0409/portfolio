@@ -4,7 +4,7 @@
       "organisation": "Osler, Hoskin & Harcourt",
       "startDate": "April, 2022",
       "endDate": "Present",
-      "experiences": ["Optimize application using client-side and server-side techniqies", "Rearchitected the existing application"],
+      "experiences": ["Optimize application using client-side and server-side techniqies", "Rearchitect the existing application"],
       "imageSrc": "history/osler.png"
     },
     {
@@ -12,7 +12,7 @@
       "organisation": "Leland Industries",
       "startDate": "April, 2021",
       "endDate": "Oct, 2021",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "experiences": ["Model relationship between the material properties and failures, intended to reduce product failures by 10%."],
       "imageSrc": "history/leland.png"
     },
     {
@@ -21,9 +21,7 @@
       "startDate": "Sept, 2017",
       "endDate": "Dec, 2018",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
+        "Perform tests, prepare Standard Operating Procedures (SOP), technical documents."],
       "imageSrc": "history/beml.png"
     },
     {
@@ -32,9 +30,7 @@
       "startDate": "Aug, 2014",
       "endDate": "June, 2016",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
+        "Optimizing the manufacturing processes, and required process improvements."],
       "imageSrc": "history/jsw.png"
     }
   ]
