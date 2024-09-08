@@ -5,8 +5,8 @@ import About from './Components/About/About'
 import Experience from './Components/Experience/Experience'
 import Projects from './Components/Projects/Projects'
 import  Contact  from './Components/Contact/Contact'
-import Navbar from './Components/Navbar/navbar'
-
+import Navbar from './Components/Navbar/Navbar'
+// import Navbar from './Components/Navbar2/navbar'
 const App = () => {
   return (
     <div className={styles.App}>
