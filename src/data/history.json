@@ -4,7 +4,13 @@
       "organisation": "Osler, Hoskin & Harcourt",
       "startDate": "April, 2022",
       "endDate": "Present",
-      "experiences": ["Optimize application using client-side and server-side techniqies", "Rearchitect the existing application"],
+      "experiences": ["Build maintainable, and user-friendly web applications, using React/Angular, Node.js, ASP.NET, C#/ .NET, JavaScript/TypeScript, MSSQL.",
+                      "Rearchitect the existing application, porting from Node.js to .NET Technologies, within stringent timeline of 2 weeks.",
+                      "Collaborated with a cross functional team to build a robust data validation and management application, improving the efficiency by 60%.",
+                      "Improved the performance of the client-faced web application by 80%, by identifying and reducing the performance bottlenecks using VS profiling tools, Monitoring Logs, Chrome Dev Tools.",
+                      "Build a web application to send customized daily/weekly notifications to different type of clients leveraging SMTP protocol.",
+                      "Fixed CORS issue by developing RESTful API, the broken functionality greatly impacted the business operations.",
+                      "Took sole responsibility to migrate On-Premises applications from TFS to Microsoft Azure, cloud based environment"],
       "imageSrc": "history/osler.png"
     },
     {
