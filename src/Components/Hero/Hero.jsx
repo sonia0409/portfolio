@@ -7,7 +7,7 @@ const Hero = () => {
     <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Sonia Singh</h1>
         <p className={styles.description}>Motivated, and result-oriented full stack developer with 3 years of experience.
-          I bring experties in building a scalable, and maintainable applications.
+          I bring expertise in building a scalable, and maintainable applications.
           <br/>
           Reach out if you'd like to learn more! 
         </p>
